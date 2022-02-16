@@ -11,3 +11,6 @@ Name your file as Main.java before compiling.
  
 ## maxProductForOneLessAndOneMoreIndex.java 
  :This files contains a code for printing the number from an array whose product of i-1 & i+1 indexes are highest in the array.
+
+## warnersClubGaryandDoryCardStackProblrm.java
+ :This files contains a code for printing the maximum posiible height of stacks organized by two different people having different no. of cards such that the height of all stacks remain same.
