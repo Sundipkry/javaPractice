@@ -14,3 +14,7 @@ Name your file as Main.java before compiling.
 
 ## warnersClubGaryAndDoryCardStackProblrm.java
  :This files contains a code for printing the maximum posiible height of stacks organized by two different people having different no. of cards such that the height of all stacks remain same.
+
+## checkrotation.java
+ :This file contains a code for check if a given string is rotation of another or not.
+ 
