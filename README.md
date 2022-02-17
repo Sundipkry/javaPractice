@@ -18,3 +18,17 @@ Name your file as Main.java before compiling.
 ## checkrotation.java
  :This file contains a code for check if a given string is rotation of another or not.
  
+## javaLoopsHackerRank.java
+ :Series
+
+(a+(2^0)*b) (a+(2^0)*b+(2^1)*b)..............(a+(2^0)*b+(2^1)*b+............+(2^n)*b)
+
+Input Format
+
+The first line contains an integer, q, denoting the number of queries.
+Each line i of the q subsequent lines contains three space-separated integers describing the respective a[i], b[i], and n[i] values for that query.
+
+
+Output Format
+
+For each query, print the corresponding series on a new line. Each series must be printed in order as a single line of  space-separated integers.
