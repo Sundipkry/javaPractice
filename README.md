@@ -18,7 +18,7 @@ Name your file as Main.java before compiling.
 ## checkrotation.java
  :This file contains a code for check if a given string is rotation of another or not.
  
-## javaLoopsHackerRank.java
+## javaLoopsIIHackerRank.java
  :Series
 
 (a+(2^0)*b) (a+(2^0)*b+(2^1)*b)..............(a+(2^0)*b+(2^1)*b+............+(2^n)*b)
