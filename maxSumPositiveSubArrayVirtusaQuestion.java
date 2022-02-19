@@ -12,12 +12,12 @@ public class Main
 		}
 		
 		int[] newArr= new int[n];
-		int[] subArr= new int[n];
 		int sum=0;
 		int l=0;
 		
 		for(int i=0; i<n; i++){
 		    
+		    int[] subArr= new int[n];
 		    int newSum=0;
 		    int k=0;
 		    for(int j=i; j<n; j++){
